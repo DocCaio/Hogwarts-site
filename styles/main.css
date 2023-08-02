@@ -1,0 +1,32 @@
+@import url(/styles/varaiveis.css);
+
+main {
+    background: #131D24;
+}
+
+section{
+display: flex;
+padding: 100px 240px;
+justify-content: center;
+align-items: center;
+gap: 62px;
+align-self: stretch;
+}
+
+.card {
+    width: 18rem;
+}
+
+h2 {
+color: #EEF4F8;
+text-align: center;
+font-family: IM FELL English;
+font-size: 24px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+p {
+    
+}
