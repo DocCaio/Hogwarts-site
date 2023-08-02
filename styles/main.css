@@ -4,7 +4,7 @@ main {
     background: #131D24;
 }
 
-section{
+.containner{
 display: flex;
 padding: 100px 240px;
 justify-content: center;
@@ -26,7 +26,23 @@ font-style: normal;
 font-weight: 400;
 line-height: normal;
 }
+span {
+  color: #79969C;
+  text-align: center;
+  font-family: IM FELL English;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
 
 p {
-    
+    color: #586061;
+text-align: center;
+font-family: IM FELL English;
+font-size: 12px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
 }
+
