@@ -41,5 +41,27 @@ background: linear-gradient(180deg, #9BB6B3 0%, #5F888A 100%);
 
 
 .containner-3 {
+    display: flex;
+padding: 100px 240px;
+justify-content: center;
+align-items: center;
+gap: 120px;
+align-self: stretch;
     background: #131D24;
 }
+
+.sec-bnt {
+    display: flex;
+    padding: 5px 20px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;  
+border-radius: 99px;
+background: linear-gradient(180deg, #FAEACA 0%, #EFCFA4 100%);
+margin-top: 1em;
+}
+
+.black-book {
+    filter: invert(0%) sepia(0%) saturate(0%) hue-rotate(0deg) brightness(0%) contrast(0%);
+}
+

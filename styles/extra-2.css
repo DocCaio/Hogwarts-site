@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=IM+Fell+English&display=swap');
+@import url(/styles/varaiveis.css);
+
+.containner-4 {
+display: flex;
+padding: 50px;
+justify-content: space-between;
+align-items: flex-start;
+align-self: stretch;
+background: linear-gradient(180deg, #FAEACA 0%, #EFCFA4 100%);
+
+}
+
+h4 {
+    color: #4A3211;
+font-family: IM FELL English;
+font-size: 24px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
