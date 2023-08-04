@@ -1,0 +1,60 @@
+ @import url('https://fonts.googleapis.com/css2?family=IM+Fell+English&display=swap');
+ @import url("/styles/varaiveis.css");
+ 
+
+
+ header {
+    display: flex;
+width: 1440px;
+height: 1025px;
+padding: 20px 240px;
+flex-direction: column;
+align-items: center;
+gap: 68px;
+    background-image: url("/img/Hero.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 100vw;
+}
+
+
+nav {
+display: flex;
+padding: 5px 5px 5px 20px;
+justify-content: space-between;
+align-items: center;
+align-self: stretch;
+border-radius: 99px;
+background: linear-gradient(180deg, #FAEACA 0%, #EFCFA4 100%);
+box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+
+width: 100%;
+height: auto;
+}
+
+ul {
+display: flex;
+justify-content: center;
+align-items: center;
+gap: 20px;
+}
+
+a {
+    color: #A9895D;
+   font-family: IM FELL English;
+   font-size: 12px;
+   font-style: normal;
+   font-weight: 400;
+   line-height: normal;
+    text-decoration: none;
+    list-style-type: none;
+}
+.nav-bnt {
+    display: flex;
+    padding: 5px 20px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    border-radius: 99px;
+    background: linear-gradient(180deg, #9BB6B3 0%, #5F888A 100%);
+}
