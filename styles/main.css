@@ -27,7 +27,7 @@ font-style: normal;
 font-weight: 400;
 line-height: normal;
 }
-span {
+.main-span{
   color: #79969C;
   text-align: center;
   font-family: IM FELL English;

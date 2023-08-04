@@ -50,6 +50,15 @@ align-self: stretch;
     background: #131D24;
 }
 
+.sec-div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 50px;
+    flex: 1 0 0;
+}
+
 .sec-bnt {
     display: flex;
     padding: 5px 20px;

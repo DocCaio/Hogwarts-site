@@ -19,3 +19,27 @@ font-style: normal;
 font-weight: 400;
 line-height: normal;
 }
+
+
+
+.sec-span {
+    color: #4A3211;
+    font-family: IM FELL English;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    }
+
+ .sec-div-2 {
+    display: flex;
+flex-direction: column;
+align-items: flex-start;
+gap: 30px;
+ }
+
+ .ul {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+ }
