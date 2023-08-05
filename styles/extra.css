@@ -14,39 +14,39 @@
 }
 
 h3 {
-color: #EEF4F8;
-text-align: center;
-text-shadow: 0px 4px 8px 0px rgba(0, 0, 0, 0.85);
-font-family: IM FELL English;
-font-size: 36px;
-font-style: normal;
-font-weight: 400;
-line-height: normal;
+  color: #EEF4F8;
+  text-align: center;
+  text-shadow: 0px 4px 8px 0px rgba(0, 0, 0, 0.85);
+  font-family: IM FELL English;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
 }
 
 
 
 .btn-1 {
     padding: 8px 20px;
-border-radius: 99px 0px 0px 99px;
-background: linear-gradient(180deg, #FAEACA 0%, #EFCFA4 100%);
+    border-radius: 99px 0px 0px 99px;
+    background: linear-gradient(180deg, #FAEACA 0%, #EFCFA4 100%);
 }
 
 .btn-2 {
     padding: 8px 20px;
-border-radius: 0px 99px 99px 0px;
-background: linear-gradient(180deg, #9BB6B3 0%, #5F888A 100%);
+    border-radius: 0px 99px 99px 0px;
+    background: linear-gradient(180deg, #9BB6B3 0%, #5F888A 100%);
 
 }
 
 
 .containner-3 {
     display: flex;
-padding: 100px 240px;
-justify-content: center;
-align-items: center;
-gap: 120px;
-align-self: stretch;
+    padding: 100px 240px;
+    justify-content: center;
+    align-items: center;
+    gap: 120px;
+    align-self: stretch;
     background: #131D24;
 }
 
@@ -65,9 +65,9 @@ align-self: stretch;
     justify-content: center;
     align-items: center;
     gap: 10px;  
-border-radius: 99px;
-background: linear-gradient(180deg, #FAEACA 0%, #EFCFA4 100%);
-margin-top: 1em;
+    border-radius: 99px;
+    background: linear-gradient(180deg, #FAEACA 0%, #EFCFA4 100%);
+    margin-top: 1em;
 }
 
 .black-book {

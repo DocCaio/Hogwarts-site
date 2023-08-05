@@ -2,21 +2,21 @@
 @import url(/styles/varaiveis.css);
 
 footer {
-    display: flex;
-padding: 25px 50px;
-justify-content: space-between;
-align-items: center;
-align-self: stretch;
-background: #131D24;
+  display: flex;
+  padding: 25px 50px;
+  justify-content: space-between;
+  align-items: center;
+  align-self: stretch;
+  background: #131D24;
 }
 
 .footer-span {
-color: #EEF4F8;
-font-family: IM FELL English;
-font-size: 12px;
-font-style: normal;
-font-weight: 400;
-line-height: normal;
-gap: 20px;
+  color: #EEF4F8;
+  font-family: IM FELL English;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  gap: 20px;
 
 }
