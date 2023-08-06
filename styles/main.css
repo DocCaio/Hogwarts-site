@@ -15,12 +15,12 @@ align-self: stretch;
 }
 
 .card {
-    width: 18rem;
-    display: flex;
+display: flex;
 flex-direction: column;
 align-items: center;
 gap: 50px;
 flex: 1 0 0;
+width: 18rem;
 }
 
 h2 {
@@ -31,6 +31,7 @@ font-size: 24px;
 font-style: normal;
 font-weight: 400;
 line-height: normal;
+
 }
 .main-span{
   color: #79969C;
@@ -43,7 +44,7 @@ line-height: normal;
 }
 
 p {
-    color: #586061;
+color: #586061;
 text-align: center;
 font-family: IM FELL English;
 font-size: 12px;
