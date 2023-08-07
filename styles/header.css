@@ -50,7 +50,18 @@ a {
    line-height: normal;
     text-decoration: none;
     list-style-type: none;
+    cursor: pointer
 }
+
+a:hover {
+  color: brown;
+}
+
+button:hover {
+  color: white;
+  cursor: pointer
+}
+
 .nav-bnt {
     display: flex;
     padding: 5px 20px;
